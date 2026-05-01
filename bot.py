@@ -33,9 +33,9 @@ from telegram.ext import (
 # CONFIG
 # =====================================================
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHANNEL_ID = -1001234567890
-BASE_URL = "http://127.0.0.1:5000"
+BOT_TOKEN = "8617110051:AAGDG4Zdn1SOfilB6Wx3NCZRM5_KAnWrYd0"
+CHANNEL_ID = -1003892816171
+BASE_URL = "http://129.151.159.101:5000"
 DB_NAME = "drive_pro.db"
 
 # =====================================================
